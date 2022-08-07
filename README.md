@@ -1,4 +1,4 @@
-# MCAHINE_LEARNING_PREDICTION_OF_ENTRY_SALARY
+# MACHINE_LEARNING_PREDICTION_OF_ENTRY_SALARY
 This is a project that aims at building a model that predicts the entry salary (CTC) for a company
 
 Two data files exist 'Data_file' and 'Test_data_file'. the first contains training data and the later containd the test data.
